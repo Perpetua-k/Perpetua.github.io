@@ -1,0 +1,35 @@
+title: "Perpetua Sankale"
+name: "Perpetua Soiyian Sankale"
+description: "Cybersecurity & Web Developer • Ethical Hacker • CTF Player"
+logo: "/images/profile.jpeg"
+theme: minimal-mistakes-jekyll
+url: "https://perpetua-portfolio.github.io"
+repository: "Perpetua-k/perpetua-portfolio.github.io"
+
+author:
+  name: "Perpetua Sankale"
+  avatar: "/images/profile.jpeg"
+  bio: "Cybersecurity and Web Developer | Ethical Hacker | CTF Player"
+  location: "Nairobi, Kenya"
+  email: "sankperpe@gmail.com"
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/Perpetua-Sankale"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/Perpetua-k"
+    - label: "Credly"
+      icon: "fas fa-certificate"
+      url: "https://www.credly.com/users/perpetua-sankale"
+
+plugins:
+  - jekyll-include-cache
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: single
+      author_profile: true
