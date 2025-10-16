@@ -2,7 +2,7 @@ title: "Perpetua Sankale Portfolio"
 name: "Perpetua Soiyian Sankale"
 description: "Cybersecurity & Web Developer • Ethical Hacker • CTF Player"
 logo: "/images/profile.jpeg"
-theme: jekyll-theme-minimal
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 url: "https://perpetua-k.github.io"
 repository: "Perpetua-k/perpetua.github.io"
 
@@ -24,8 +24,6 @@ author:
       url: "https://www.credly.com/users/perpetua-sankale"
 
 plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
   - jekyll-include-cache
   
 
