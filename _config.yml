@@ -35,3 +35,17 @@ defaults:
       layout: single
       author_profile: true
       author_profile: true
+
+      nav:
+  - title: "Home"
+    url: /
+  - title: "Projects"
+    url: /projects/
+  - title: "Labs"
+    url: /labs/
+  - title: "Contact"
+    url: /contact/
+
+
+
+      
