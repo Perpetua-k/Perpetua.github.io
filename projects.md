@@ -13,3 +13,4 @@ Data wrangling bridges this gap by transforming raw information into a structure
 https://www.kaggle.com/code/perpetuasankale/notebook6c9c498f54
 ### Web Scraping 
 This assignment focused on building hands-on experience with web scraping using Python in Google Colab. The exercise involved retrieving hockey team statistics from a live website, structuring the data into a usable format, and exporting it for further analysis.
+https://colab.research.google.com/drive/1Hd3KP-zp4DctiCQ71-w1GLGqKIqZJ0HT?usp=sharing
