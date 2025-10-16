@@ -5,8 +5,6 @@ author_profile: true
 classes: wide
 ---
 
-![Profile Image](/images/profile.jpeg){: .align-left width="160"}
-
 # 👋 Hi, I'm Perpetua Sankale
 
 > _“If you can dream it, you can achieve it.”_
