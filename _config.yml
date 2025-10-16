@@ -3,7 +3,7 @@ name: "Perpetua Soiyian Sankale"
 description: "Cybersecurity & Web Developer • Ethical Hacker • CTF Player"
 logo: "/images/profile.jpeg"
 theme: jekyll-theme-minimal
-url: "https://perpetua.github.io"
+url: "https://perpetua-k.github.io"
 repository: "Perpetua-k/perpetua.github.io"
 
 author:
@@ -24,7 +24,10 @@ author:
       url: "https://www.credly.com/users/perpetua-sankale"
 
 plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
   - jekyll-include-cache
+  
 
 defaults:
   - scope:
@@ -32,4 +35,5 @@ defaults:
       type: "posts"
     values:
       layout: single
+      author_profile: true
       author_profile: true
