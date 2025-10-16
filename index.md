@@ -2,17 +2,43 @@
 layout: single
 title: "Welcome"
 author_profile: true
+classes: wide
 ---
 
+![Profile Image](/images/profile.jpeg){: .align-left width="160"}
 
-### Hi, I'm Perpetua Sankale
-If you can dream it, you can achieve it.
-Cybersecurity, Cloud and Web Developer enthusiasiast, I am passionate about ethical hacking, web app security, and digital safety.  
+# 👋 Hi, I'm Perpetua Sankale
 
--  **Ethical Hacker** – Certified by Cyber Shujaa  
--  **Web Developer** – Django & Laravel
--  **AWS Cloud Practitioner** – Undertaking the course by AWS
--  **Data and AI** – Undertaking the course by Cyber Shujaa
--  **CTF Player** – Active on TryHackMe and HackTheBox  
+> _“If you can dream it, you can achieve it.”_
 
-[Download CV](files/Perpetua Sankale_CV.pdf){: .btn .btn--success target="_blank"}
+**Cybersecurity • Cloud • Web Developer**
+
+I’m passionate about **ethical hacking**, **web application security**, and **digital safety** — helping make the web a safer and smarter place.  
+Currently pursuing **AWS Cloud Practitioner** and **Data & AI** under Cyber Shujaa programs.
+
+---
+
+### 🎯 What I Do
+- 🧠 **Ethical Hacker** – Certified by Cyber Shujaa  
+- 🕸️ **Web Developer** – Skilled in Django & Laravel  
+- ☁️ **Cloud Enthusiast** – AWS Cloud Practitioner (In progress)  
+- 🤖 **Data & AI Learner** – Ongoing with Cyber Shujaa  
+- 💡 **CTF Player** – Active on TryHackMe & HackTheBox  
+
+---
+
+### 📄 Resume
+[![Download CV](https://img.shields.io/badge/Download%20CV-PDF-green?style=for-the-badge&logo=adobeacrobatreader)](/files/Perpetua_Sankale_CV.pdf){:target="_blank"}
+
+---
+
+### 🌐 Connect With Me
+- [💼 LinkedIn](https://www.linkedin.com/in/Perpetua-Sankale){:target="_blank"}  
+- [💻 GitHub](https://github.com/Perpetua-k){:target="_blank"}  
+- [🏅 Credly](https://www.credly.com/users/perpetua-sankale){:target="_blank"}  
+- 📧 [Email Me](mailto:sankperpe@gmail.com)
+
+---
+
+_“Building secure, scalable, and smart digital solutions.”_  
+— **Perpetua Sankale**
