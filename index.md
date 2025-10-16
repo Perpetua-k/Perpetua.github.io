@@ -5,7 +5,7 @@ author_profile: true
 classes: wide
 ---
 
-![Profile Image](/profile.jpeg){: .align-left width="160"}
+![Profile Image](/images/profile.jpeg){: .align-left width="160"}
 
 # 👋 Hi, I'm Perpetua Sankale
 
@@ -13,12 +13,12 @@ classes: wide
 
 **Cybersecurity • Cloud • Web Developer**
 
-I’m passionate about **ethical hacking**, **web application security**, and **digital safety** — helping make the web a safer and smarter place.  
-Currently pursuing **AWS Cloud Practitioner** and **Data & AI** under Cyber Shujaa programs.
+I’m passionate about ethical hacking, web application security, and digital safety helping make the web a safer and smarter place.  
+Currently pursuing AWS Cloud Practitioner and Data & AI under Cyber Shujaa programs.
 
 ---
 
-### 🎯 What I Do
+###  What I Do
 - 🧠 **Ethical Hacker** – Certified by Cyber Shujaa  
 - 🕸️ **Web Developer** – Skilled in Django & Laravel  
 - ☁️ **Cloud Enthusiast** – AWS Cloud Practitioner (In progress)  
@@ -41,5 +41,5 @@ Currently pursuing **AWS Cloud Practitioner** and **Data & AI** under Cyber Shuj
 ---
 
 _“Building secure, scalable, and smart digital solutions.”_  
-Thank you for visiting. We can build something exceptional together.
-— **Perpetua Sankale**
+Thank you for visiting — we can build something exceptional together.  
+**— Perpetua Sankale**
