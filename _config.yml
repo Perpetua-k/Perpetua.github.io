@@ -1,8 +1,8 @@
-title: "Perpetua Sankale"
+title: "Perpetua Sankale Portfolio"
 name: "Perpetua Soiyian Sankale"
 description: "Cybersecurity & Web Developer • Ethical Hacker • CTF Player"
 logo: "/images/profile.jpeg"
-theme: minimal-mistakes-jekyll
+theme: jekyll-theme-minimal
 url: "https://perpetua.github.io"
 repository: "Perpetua-k/perpetua.github.io"
 
