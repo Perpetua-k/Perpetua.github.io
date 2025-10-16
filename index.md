@@ -13,4 +13,4 @@ Cybersecurity and Web Developer passionate about ethical hacking, web app securi
 - 🕸️ **Web Developer** – Django & Laravel  
 - 💡 **CTF Player** – Active on TryHackMe and HackTheBox  
 
-[Download CV](files/Perpetua_Sankale_CV.pdf){: .btn .btn--success target="_blank"}
+[Download CV](files/Perpetua Sankale_CV.pdf){: .btn .btn--success target="_blank"}
