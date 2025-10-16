@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: home
 title: "Resume Outline"
 permalink: /resume/
 ---
