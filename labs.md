@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: home
 title: "Lab Challenges"
 permalink: /labs/
 author_profile: true
