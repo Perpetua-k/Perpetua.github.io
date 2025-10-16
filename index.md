@@ -4,7 +4,6 @@ title: "Welcome"
 author_profile: true
 ---
 
-![Profile Image](/Pictures/profile.jpeg){: .align-left width="150"}
 
 ### Hi, I'm Perpetua Sankale
 If you can dream it, you can achieve it.
