@@ -2,15 +2,25 @@
 layout: single
 title: "Projects"
 permalink: /projects/
+author_profile: true
 ---
 
+## 💻 Featured Projects
+
 ### Titanic Exploratory Data Analysis
-The purpose of this assignment was to develop hands-on experience in exploratory data analysis (EDA) using the Titanic dataset from Kaggle.
-The dataset contains detailed information about passengers aboard the Titanic, including variables such as passenger class, age, sex, fare, and survival status
+**Objective:** Develop hands-on experience in Exploratory Data Analysis (EDA) using the Titanic dataset from Kaggle.  
+**Description:**  
+Analyzed patterns in passenger demographics, socio-economic class, and survival rates.  
+Used Python libraries (`pandas`, `matplotlib`, `seaborn`) to visualize survival probability by class, gender, and age.  
 https://www.kaggle.com/code/perpetuasankale/notebook7c2868f78e
 ### Data Wrangling
-Data wrangling bridges this gap by transforming raw information into a structured and reliable form suitable for analysis.The dataset contains metadata on movies and TV shows available on Netflix, including their titles, release year, director, cast, country of production, and date added to the platform.
+**Objective:** Transform raw metadata into clean, analyzable datasets.  
+**Description:**  
+Performed data cleaning and transformation on a Netflix dataset containing movie and TV show metadata.  
 https://www.kaggle.com/code/perpetuasankale/notebook6c9c498f54
 ### Web Scraping 
-This assignment focused on building hands-on experience with web scraping using Python in Google Colab. The exercise involved retrieving hockey team statistics from a live website, structuring the data into a usable format, and exporting it for further analysis.
+**Objective:** Gain hands-on experience with web data extraction using Python and BeautifulSoup.  
+**Description:**  
+Built a scraper to retrieve hockey team statistics from a live website.  
+Processed and exported the structured dataset for visualization and analytics.  
 https://colab.research.google.com/drive/1Hd3KP-zp4DctiCQ71-w1GLGqKIqZJ0HT?usp=sharing
