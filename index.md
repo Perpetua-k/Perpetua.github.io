@@ -7,7 +7,7 @@ author_profile: true
 
 ### Hi, I'm Perpetua Sankale
 If you can dream it, you can achieve it.
-Cybersecurity, Cloud and Web Developer passionate about ethical hacking, web app security, and digital safety.  
+Cybersecurity, Cloud and Web Developer enthusiasiast, I am passionate about ethical hacking, web app security, and digital safety.  
 
 -  **Ethical Hacker** – Certified by Cyber Shujaa  
 -  **Web Developer** – Django & Laravel
