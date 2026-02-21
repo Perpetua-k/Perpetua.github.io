@@ -9,19 +9,22 @@ classes: wide
 
 > _“If you can dream it, you can achieve it.”_
 
-**Cybersecurity • Cloud • Web Developer**
+**Cybersecurity • Cloud • AI**
 
-I’m passionate about ethical hacking, web application security, and digital safety helping make the web a safer and smarter place.  
-Currently pursuing AWS Cloud Practitioner and Data & AI under Cyber Shujaa programs.
+ I’m a Master’s in Artificial Intelligence student and AWS Certified Cloud Practitioner with a Bachelor’s in Computer Science. Skilled in cybersecurity, cloud security, ethical hacking, and web application security. Experienced with Python, Django, Kali Linux, and modern cloud environments. 
+
+ I'm passionate about applying AI to enhance secure, intelligent, and scalable systems.  
+
 
 ---
 
 ###  What I Do
-- 🧠 **Ethical Hacker** – Certified by Cyber Shujaa  
-- 🕸️ **Web Developer** – Skilled in Django & Laravel  
-- ☁️ **Cloud Enthusiast** – AWS Cloud Practitioner (In progress)  
-- 🤖 **Data & AI Learner** – Ongoing with Cyber Shujaa  
-- 💡 **CTF Player** – Active on TryHackMe & HackTheBox  
+- **Ethical Hacker** – Cyber Shujaa
+- **AWS Cloud Practitioner**- Cloud Enthusiast 
+- **Web Developer** – Skilled in Django & Laravel
+- **Web Application Security**- CyberPro Global Academy   
+- **Data & AI** – Cyber Shujaa  
+-  **CTF Player** – Active on TryHackMe & HackTheBox  
 
 ---
 
