@@ -7,7 +7,7 @@ classes: wide
 
 # 👋 Hi, I'm Perpetua Sankale
 
-> _“If you can dream it, you can achieve it.”_
+ _“If you can dream it, you can achieve it.”_
 
 **Cybersecurity • Cloud • AI**
 
