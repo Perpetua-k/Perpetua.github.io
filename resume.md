@@ -5,6 +5,7 @@ permalink: /resume/
 ---
 
 ### 🎓 Education
+-**M.Sc. Artificial Intelligence**- Jomo Kenyatta University of Science and Technology (2025-Present)
 - **B.Sc. Computer Science** – Kiriri Women’s University (2021–2024)  
 - **Diploma in IT** – Kiriri Women’s University (2020–2021)
 
