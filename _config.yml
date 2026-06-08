@@ -1,6 +1,6 @@
 title: "Perpetua Sankale"
 name: "Perpetua Soiyian Sankale"
-description: "Cybersecurity & Web Developer • Ethical Hacker • CTF Player"
+description: "Cybersecurity & AI • Ethical Hacker • Pen Tester"
 logo: "/images/profile.jpeg"
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 url: "https://perpetua-k.github.io"
@@ -9,7 +9,7 @@ repository: "Perpetua-k/Perpetua.github.io"
 author:
   name: "Perpetua Sankale"
   avatar: "/images/profile.jpeg"
-  bio: "Cybersecurity and Web Developer | Ethical Hacker | CTF Player"
+  bio: "Cybersecurity & AI | Ethical Hacker | Pen Tester"
   location: "Nairobi, Kenya"
   email: "sankperpe@gmail.com"
   links:
