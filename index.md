@@ -9,22 +9,78 @@ classes: wide
 
  _“If you can dream it, you can achieve it.”_
 
-**Cybersecurity • Cloud • AI**
+**Cybersecurity • AI MSc Student • Cloud Security • AI Driven Cybersecurity**
 
- I’m a Master’s in Artificial Intelligence student and AWS Certified Cloud Practitioner with a Bachelor’s in Computer Science. Skilled in cybersecurity, cloud security, ethical hacking, and web application security. Experienced with Python, Django, Kali Linux, and modern cloud environments. 
+I build secure applications, perform vulnerability assessments, automate tasks with Python, and continuously expand my expertise through practical labs, CTFs, and cloud technologies.
 
- I'm passionate about applying AI to enhance secure, intelligent, and scalable systems.  
+I am currently seeking entry-level Cybersecurity, SOC Analyst, IT Support, and Junior Security Engineer opportunities.
+I'm passionate about applying AI to enhance secure, intelligent, and scalable systems.  
 
 
 ---
 
 ###  What I Do
+- Programming
+
+Python
+Django
+SQL
+JavaScript
+
+
+- Cybersecurity
+
+Nmap
+Nessus
+Wireshark
+OWASP Top 10
+Vulnerability Assessment
+
+- Cloud
+
+AWS
+Terraform (when you learn it)
+
+- Networking
+
+TCP/IP
+DNS
+DHCP
+Routing
+Switching  
+
+- Artificial Intelligence & Machine Learning
+Machine Learning
+Supervised Learning
+Unsupervised Learning
+Deep Learning (Fundamentals)
+Artificial Neural Networks (ANN)
+Model Training & Evaluation
+Feature Engineering
+Data Preprocessing
+Exploratory Data Analysis (EDA)
+
+-  **CTF Player** – Active on TryHackMe & HackTheBox
+
+
+**Achievements**
+
+🏆 Winner – Cyber Shujaa 30 Days to Hire Challenge
+Team Leader – AWS Cloud Practitioner Programme & Outstanding Student
+She Hacks Speaker
+Top 15 Individual CTF
+Top 10 Team CTF
+
+
+**Cerifications**
+- **Data & AI** – Cyber Shujaa
 - **Ethical Hacker** – Cyber Shujaa
-- **AWS Cloud Practitioner**- Cloud Enthusiast 
-- **Web Developer** – Skilled in Django & Laravel
-- **Web Application Security**- CyberPro Global Academy   
-- **Data & AI** – Cyber Shujaa  
--  **CTF Player** – Active on TryHackMe & HackTheBox  
+- **Web Application Security** - Cyber Pro Global Academy
+- **AWS Re/Start Graduate** - AWS
+- **Web Development (Django Python)** - Emobilis Academy
+- **Cyber Threat Management** - Cyber Shujaa
+- **Linux Foundation**
+
 
 ---
 
