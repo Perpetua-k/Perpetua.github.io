@@ -21,5 +21,6 @@ permalink: /resume/
 - Ethical Hacker – Cyber Shujaa  
 - Web App Security – CyberPro Global Academy  
 - Django & Python – Emobilis  
-- Cyber Threat Management – Cisco Networking
+- Cyber Threat Management – Cyber Shujaa
 - Data and AI - Cyber Shujaa
+- AWS CCP Graduate
