@@ -2,14 +2,19 @@ title: "Perpetua Sankale"
 name: "Perpetua Soiyian Sankale"
 description: "Cybersecurity & AI • Ethical Hacker • Cloud Security"
 logo: "/images/profile.jpeg"
+
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+
 url: "https://perpetua-k.github.io"
 repository: "Perpetua-k/Perpetua.github.io"
+
+plugins:
+  - jekyll-include-cache
 
 author:
   name: "Perpetua Sankale"
   avatar: "/images/profile.jpeg"
-  bio: "AI driven Cybersecurity | AI MSc Student | Ethical Hacker | Cloud Security | Open to Offensive Security, SOC Analyst and IT Support Opportunities"
+  bio: "AI-driven Cybersecurity | AI MSc Student | Ethical Hacker | Cloud Security | Open to Offensive Security, SOC Analyst, and IT Support Opportunities"
   location: "Nairobi, Kenya"
   email: "sankperpe@gmail.com"
   links:
@@ -23,9 +28,6 @@ author:
       icon: "fas fa-certificate"
       url: "https://www.credly.com/users/perpetua-sankale"
 
-plugins:
-  - jekyll-include-cache
-
 defaults:
   - scope:
       path: ""
@@ -34,20 +36,5 @@ defaults:
       layout: single
       author_profile: true
 
-
-
-nav:
-  - title: "Home"
-    url: /
-    - title: "Resume"
-    url: /resume/
-  - title: "Projects"
-    url: /projects/
-  - title: "Labs"
-    url: /labs/
-  - title: "Contact"
-    url: /contact/
-
-
-
-      
+header:
+  nav: main
