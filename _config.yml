@@ -5,13 +5,13 @@ description: "Cybersecurity & AI • Ethical Hacker • Cloud Security"
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
 url: "https://perpetua-k.github.io"
+baseurl: "/Perpetua.github.io"
 repository: "Perpetua-k/Perpetua.github.io"
 
 plugins:
   - jekyll-include-cache
 
 author:
-  name: "Perpetua Sankale"
   avatar: "/images/profile.jpeg"
   bio: "AI-driven Cybersecurity | AI MSc Student | Ethical Hacker | Cloud Security | Open to Offensive Security, SOC Analyst, and IT Support Opportunities"
   location: "Nairobi, Kenya"
