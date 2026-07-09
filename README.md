@@ -36,5 +36,5 @@ Cybersecurity enthusiast passionate about ethical hacking, cloud security, and A
 ## Connect
 
 LinkedIn: www.linkedin.com/in/PerpetuaSankale
-Portfolio:
+Portfolio: https://perpetua-k.github.io/Perpetua.github.io/
 Email:sankperpe@gmail.com
