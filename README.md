@@ -10,7 +10,8 @@ Cybersecurity enthusiast passionate about ethical hacking, cloud security, and A
 - BSc Computer Science
 - Ethical Hacker
 - AWS Cloud Practitioner
-- Open to Security Analyst opportunities
+- Cloud Security
+- Open to AI driven Cybersecurity opportunities
 
 ## Skills
 
@@ -28,9 +29,12 @@ Cybersecurity enthusiast passionate about ethical hacking, cloud security, and A
 - Ethical Hacking
 - Cyber Threat Management
 - AWS Cloud Practitioner
+- Web Application Security
+- Data and AI
+- Django Python Web Development
 
 ## Connect
 
-LinkedIn:
+LinkedIn: www.linkedin.com/in/PerpetuaSankale
 Portfolio:
-Email:
+Email:sankperpe@gmail.com
