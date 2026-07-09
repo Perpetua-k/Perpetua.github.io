@@ -22,43 +22,44 @@ I'm passionate about applying AI to enhance secure, intelligent, and scalable sy
 ###  What I Do
 - Programming
 
-Python
-Django
-SQL
+Python,
+Django,
+SQL,
 JavaScript
 
 
 - Cybersecurity
 
-Nmap
-Nessus
-Wireshark
-OWASP Top 10
+Nmap,
+Nessus,
+Wireshark,
+OWASP Top 10,
 Vulnerability Assessment
 
 - Cloud
 
-AWS
+AWS,
 Terraform 
 
 - Networking
 
-TCP/IP
-DNS
-DHCP
-Routing
+TCP/IP,
+DNS,
+DHCP,
+Routing,
 Switching  
 
 - Artificial Intelligence & Machine Learning
   
-Machine Learning
-Supervised Learning
-Unsupervised Learning
-Deep Learning (Fundamentals)
-Artificial Neural Networks (ANN)
-Model Training & Evaluation
-Feature Engineering
-Data Preprocessing
+Machine Learning, 
+Supervised Learning, 
+Unsupervised Learning, 
+Deep Learning (Fundamentals), 
+Convolutional Neural Networks (ANN),
+Model Training & Evaluation, 
+Feature Engineering, 
+Data Preprocessing,
+Annotation, 
 Exploratory Data Analysis (EDA)
 
 -  **CTF Player** – Active on TryHackMe & HackTheBox
@@ -79,11 +80,17 @@ Top 10 Team CTF
 
 **Cerifications**
 - **Data & AI** – Cyber Shujaa
+  
 - **Ethical Hacker** – Cyber Shujaa
+  
 - **Web Application Security** - Cyber Pro Global Academy
+  
 - **AWS Re/Start Graduate** - AWS
+  
 - **Web Development (Django Python)** - Emobilis Academy
+  
 - **Cyber Threat Management** - Cyber Shujaa
+  
 - **Linux Foundation**
 
 
