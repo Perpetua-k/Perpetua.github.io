@@ -50,6 +50,7 @@ Routing
 Switching  
 
 - Artificial Intelligence & Machine Learning
+  
 Machine Learning
 Supervised Learning
 Unsupervised Learning
@@ -66,9 +67,13 @@ Exploratory Data Analysis (EDA)
 **Achievements**
 
 🏆 Winner – Cyber Shujaa 30 Days to Hire Challenge
+
 Team Leader – AWS Cloud Practitioner Programme & Outstanding Student
+
 She Hacks Speaker
+
 Top 15 Individual CTF
+
 Top 10 Team CTF
 
 
