@@ -1,0 +1,15 @@
+main:
+  - title: "Home"
+    url: /
+
+  - title: "Resume"
+    url: /resume/
+
+  - title: "Projects"
+    url: /projects/
+
+  - title: "Labs"
+    url: /labs/
+
+  - title: "Contact"
+    url: /contact/
