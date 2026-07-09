@@ -71,6 +71,10 @@ Exploratory Data Analysis (EDA)
 
 Team Leader – AWS Cloud Practitioner Programme & Outstanding Student
 
+Women in Tech Lead
+
+Undergrad Class Representative 
+
 She Hacks Speaker
 
 Top 15 Individual CTF
