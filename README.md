@@ -9,7 +9,7 @@ Cybersecurity enthusiast passionate about ethical hacking, cloud security, and A
 - MSc Artificial Intelligence Student
 - BSc Computer Science
 - Ethical Hacker
-- AWS Cloud Practitioner
+- Offensive Security
 - Cloud Security
 - Open to AI driven Cybersecurity opportunities
 
