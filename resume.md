@@ -22,3 +22,4 @@ permalink: /resume/
 - Web App Security – CyberPro Global Academy  
 - Django & Python – Emobilis  
 - Cyber Threat Management – Cisco Networking
+- Data and AI - Cyber Shujaa
