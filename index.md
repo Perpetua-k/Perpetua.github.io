@@ -101,7 +101,7 @@ Top 10 Team CTF
 ---
 
 ### 📄 Resume
-[![Download CV](https://img.shields.io/badge/Download%20CV-PDF-green?style=for-the-badge&logo=adobeacrobatreader)](/files/Perpetua_Sankale_CV.pdf){:target="_blank"}
+[![Download CV](https://img.shields.io/badge/Download%20CV-PDF-green?style=for-the-badge&logo=adobeacrobatreader)](/files/Perpetua_Sankale_CV.pdf){:target="_Perpetua_Sankale_CV.pdf)"}
 
 ---
 
