@@ -39,7 +39,7 @@ Vulnerability Assessment
 - Cloud
 
 AWS
-Terraform (when you learn it)
+Terraform 
 
 - Networking
 
